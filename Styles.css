@@ -3,9 +3,9 @@ body {
     font-family: Arial, sans-serif;
 }
 .rosa {
- background-color: pink;
- text-align: center;
- padding: 20px;
+    background-color: pink;
+    text-align: center;
+    padding: 20px;
 }
 nav ul {
     display: flex;
@@ -26,7 +26,7 @@ nav ul li:hover {
 }
 
 .seccion-principal {
-    background-color: #9ee1eb;
+    background-color: #ffc0f1;
     display: flex;
     padding: 20px;
 }
@@ -43,7 +43,7 @@ nav ul li:hover {
     color: black;
     font-size: 16px;
     margin: 0 0 10px 0;
-    padding: 5px;
+    padding: 10px;
 }
 
 .izquierda img {
@@ -51,13 +51,36 @@ nav ul li:hover {
 }
 
 .derecha h3 {
-    background-color: #9ee1eb;
+    background-color: #ffc0f1;
     margin-bottom: 15px;
     padding: 5px;
     font-size: 16px;
 }
 
 .derecha p {
-    color: white;
+    color: black;
     line-height: 1.5;
 }
+
+.ejemplos {
+    background-color: pink;
+    margin: 0px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.ejemplos article {
+    background-color:white;
+    margin: 20px;
+    width: 250px;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 10px;
+}
+
+.ejemplos article img {
+    width: 100%;
+    height: 200px; 
+    border-radius: 10px;
+  }
+  
