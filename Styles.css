@@ -86,3 +86,10 @@ body {
 .tarjetas{
     display: flex;
 }
+
+.footer {
+    background-color: #ffe8f1;
+    padding: 20px;
+    margin: 0px;
+    font-size: 20px;
+}
